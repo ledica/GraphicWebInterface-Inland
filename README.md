@@ -30,7 +30,7 @@ Create a virtualenv for the project for creating isolated environments
 
 sudo apt-get install python-virtualenv
 virtualenv graphicWebInterface_env
-source graphicWebInterface/bin/activate
+source graphicWebInterce_env/bin/activate
 ```
 
 Install cdo-api-py, Flask and Ipython
