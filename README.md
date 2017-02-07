@@ -1,5 +1,5 @@
 # GraphicWebInterface-Inland
-Graphical web interface in python (flask) for inland
+Graphical web interface in python 2.7 (flask) for inland
 
 Environment
 Start by creating a folder for the project in the location of your choice
